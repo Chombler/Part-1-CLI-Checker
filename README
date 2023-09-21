@@ -1,0 +1,7 @@
+This repo contains several scripts to test the CLI interface of students in the class ECE 461 at Purdue.
+
+By running `python3 checker.py` in the same directory as their run script, students can verify that their CLI commands match the format we expect for the autograder.
+
+If you have any questions, come to office hours.
+
+-Jason
